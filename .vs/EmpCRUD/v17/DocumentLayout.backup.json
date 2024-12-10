@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\model\\updateemps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\model\\updateemps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\model\\addempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\model\\addempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\stepsofapi\u0027s.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\stepsofapi\u0027s.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\demorestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\demorestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\demorestapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\demorestapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|c:\\users\\sumit\\source\\repos\\empcrud\\demorestapi\\migrations\\20241209171657_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F1C73-178F-4C04-9B2A-2F90D997FEFD}|DemoRestAPI\\DemoRestAPI.csproj|solutionrelative:demorestapi\\migrations\\20241209171657_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmps.cs",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Model\\UpdateEmps.cs",
+              "RelativeDocumentMoniker": "DemoRestAPI\\Model\\UpdateEmps.cs",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Model\\UpdateEmps.cs",
+              "RelativeToolTip": "DemoRestAPI\\Model\\UpdateEmps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:20:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "DemoRestAPI\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Model\\Employee.cs",
+              "RelativeToolTip": "DemoRestAPI\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:42:19.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmpDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Model\\AddEmpDto.cs",
+              "RelativeDocumentMoniker": "DemoRestAPI\\Model\\AddEmpDto.cs",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Model\\AddEmpDto.cs",
+              "RelativeToolTip": "DemoRestAPI\\Model\\AddEmpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:32:02.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Controllers\\EmpsController.cs",
+              "RelativeDocumentMoniker": "DemoRestAPI\\Controllers\\EmpsController.cs",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Controllers\\EmpsController.cs*",
+              "RelativeToolTip": "DemoRestAPI\\Controllers\\EmpsController.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:02:26.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DemoRestAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Program.cs",
+              "RelativeToolTip": "DemoRestAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:52:27.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DemoRestAPI\\DAL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DemoRestAPI\\DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:38:30.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DemoRestAPI.http",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\DemoRestAPI.http",
+              "RelativeDocumentMoniker": "DemoRestAPI\\DemoRestAPI.http",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\DemoRestAPI.http",
+              "RelativeToolTip": "DemoRestAPI\\DemoRestAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-09T13:34:09.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StepsOfAPI\u0027s.txt",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\StepsOfAPI\u0027s.txt",
+              "RelativeDocumentMoniker": "DemoRestAPI\\StepsOfAPI\u0027s.txt",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\StepsOfAPI\u0027s.txt",
+              "RelativeToolTip": "DemoRestAPI\\StepsOfAPI\u0027s.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T12:40:51.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoRestAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\appsettings.json",
+              "RelativeToolTip": "DemoRestAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T12:52:39.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoRestAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\DemoRestAPI.csproj",
+              "RelativeDocumentMoniker": "DemoRestAPI\\DemoRestAPI.csproj",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\DemoRestAPI.csproj",
+              "RelativeToolTip": "DemoRestAPI\\DemoRestAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T12:52:19.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241209171657_Initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Migrations\\20241209171657_Initial-migration.cs",
+              "RelativeDocumentMoniker": "DemoRestAPI\\Migrations\\20241209171657_Initial-migration.cs",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Migrations\\20241209171657_Initial-migration.cs",
+              "RelativeToolTip": "DemoRestAPI\\Migrations\\20241209171657_Initial-migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:16:57.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DemoRestAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "DemoRestAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:34:07.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoRestAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Sumit\\source\\repos\\EmpCRUD\\DemoRestAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoRestAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:14:29.52Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 864,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

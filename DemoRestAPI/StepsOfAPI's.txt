@@ -1,0 +1,19 @@
+﻿Choose RESTAPI template || Code 1st approach
+
+
+nudget package ==> 1) MicrosoftEntityframework core 2) Microsoft entity tools
+
+Create Folder Model ==> Create Entity class and mentioned properties here
+
+Create Folder Data ===> Create Class ApplicationDBContext that extends Dbcontext class from entity framework
+
+In appsettings.json put connection string like this "Server=SERVER_NAME;Database=DATABASE_NAME;Trusted_Connection=True;"
+
+After putting connection string we inject DAL layer class to program.cs & provide connection string using builder object
+
+then inside nudget package console put I) add-migration "initial migration" II) update-migration
+
+migration creates some code that needs to work on DB (basically it generation c# code that runs and builds DB)
+
+
+
