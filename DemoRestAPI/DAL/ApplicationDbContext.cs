@@ -1,7 +1,7 @@
 ﻿using DemoRestAPI.Model;
 using Microsoft.EntityFrameworkCore;
 
-namespace DemoRestAPI.DAL
+namespace DemoRestAPI.DAL 
 {
 	public class ApplicationDbContext : DbContext
 	{
